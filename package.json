@@ -29,6 +29,18 @@
     "zone.js": "0.15.1"
   },
   "overrides": {
-    "zone.js": "0.15.1"
+    "zone.js": "0.15.1",
+    "tar": "^7.5.16",
+    "uuid": "^11.1.1",
+    "serialize-javascript": "^7.0.5",
+    "piscina": "^5.2.0",
+    "esbuild": "^0.28.1",
+    "vite": "^6.4.3",
+    "http-proxy-middleware": "^3.0.7",
+    "@sigstore/core": "^4.0.1",
+    "@sigstore/sign": "^5.0.0",
+    "@sigstore/verify": "^4.1.0",
+    "sigstore": "^5.0.0",
+    "webpack-dev-server": "^6.0.0"
   }
 }
