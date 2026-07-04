@@ -28,7 +28,6 @@
               { "glob": "favicon.ico", "input": "src", "output": "" }
             ],
             "styles": [
-              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles/variables.scss",
               "src/styles.scss"
             ],
