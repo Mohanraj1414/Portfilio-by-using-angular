@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;38d386ff00f10661944ef283f7a711ab009851cdebe7070de358a5ce8502681b;e:/Angular Project/src/app/components/scroll-progress/scroll-progress.component.ts"],
+  "sourcesContent": ["\n    .scroll-bar {\n      position: fixed; top: 0; left: 0; height: 3px; z-index: 9998;\n      background: var(--gradient-primary);\n      transition: width 0.1s linear;\n      box-shadow: 0 0 10px rgba(108,99,255,0.5);\n    }\n  "],
+  "mappings": ";AACI,CAAC;AACC,YAAU;AAAO,OAAK;AAAG,QAAM;AAAG,UAAQ;AAAK,WAAS;AACxD,cAAY,IAAI;AAChB,cAAY,MAAM,KAAK;AACvB,cAAY,EAAE,EAAE,KAAK,KAAK,GAAG,EAAC,EAAE,EAAC,GAAG,EAAC;AACvC;",
+  "names": []
+}
