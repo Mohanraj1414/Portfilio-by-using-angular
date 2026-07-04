@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["angular:styles/component:css;37f50a987bfb83914ccb51aafed27e65ebab67f37f8e5efae8770b63977dfd15;e:/Angular Project/src/app/components/back-to-top/back-to-top.component.ts"],
-  "sourcesContent": ["\n    .back-to-top {\n      position: fixed; bottom: 2rem; right: 2rem; z-index: 999;\n      width: 48px; height: 48px;\n      background: var(--gradient-primary);\n      color: #fff; border: none; border-radius: 50%;\n      font-size: 1.2rem; cursor: pointer;\n      display: flex; align-items: center; justify-content: center;\n      opacity: 0; visibility: hidden; transform: translateY(20px);\n      transition: all var(--transition-base);\n      box-shadow: var(--shadow-glow);\n    }\n    .back-to-top.visible { opacity: 1; visibility: visible; transform: translateY(0); }\n    .back-to-top:hover { transform: translateY(-4px); }\n  "],
-  "mappings": ";AACI,CAAC;AACC,YAAU;AAAO,UAAQ;AAAM,SAAO;AAAM,WAAS;AACrD,SAAO;AAAM,UAAQ;AACrB,cAAY,IAAI;AAChB,SAAO;AAAM,UAAQ;AAAM,iBAAe;AAC1C,aAAW;AAAQ,UAAQ;AAC3B,WAAS;AAAM,eAAa;AAAQ,mBAAiB;AACrD,WAAS;AAAG,cAAY;AAAQ,aAAW,WAAW;AACtD,cAAY,IAAI,IAAI;AACpB,cAAY,IAAI;AAClB;AACA,CAXC,WAWW,CAAC;AAAU,WAAS;AAAG,cAAY;AAAS,aAAW,WAAW;AAAI;AAClF,CAZC,WAYW;AAAS,aAAW,WAAW;AAAO;",
-  "names": []
-}
